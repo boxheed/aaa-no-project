@@ -1,0 +1,7 @@
+/*
+ * This is the root build file for the Fizzpod Starter project.
+ */
+
+plugins {
+    // This is necessary to avoid applying the application plugin to the root project if not desired.
+}
